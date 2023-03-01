@@ -2,7 +2,7 @@
 Weather App (By Tutorial)
 Simple description:
 App gets information from website and sets results to screen.
-
+Simple GET API
 
 ![Screenshot 2023-03-01 184114](https://user-images.githubusercontent.com/100896741/222142410-498be50e-740d-4bc8-9bb6-25af42e0ede4.png)
 
