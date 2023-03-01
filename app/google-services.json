@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "52492662015",
+    "project_id": "instruction-app-f28f1",
+    "storage_bucket": "instruction-app-f28f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52492662015:android:781e84930f5cb826e008ca",
+        "android_client_info": {
+          "package_name": "com.example.instructionapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "52492662015-a9o85vdou12p4ftp6uaapik8eovucoke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZvRTb9t2sCMKMcZe0uoG-swz__IMQYYo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "52492662015-a9o85vdou12p4ftp6uaapik8eovucoke.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

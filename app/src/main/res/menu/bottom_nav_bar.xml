@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/trenirovka"
+        android:title="Тренировка"
+        android:icon="@drawable/trenirovke"
+        />
+    <item
+        android:id="@+id/school"
+        android:title="Школа"
+        android:icon="@drawable/cil_school"
+        />
+
+</menu>
